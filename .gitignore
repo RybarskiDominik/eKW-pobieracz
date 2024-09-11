@@ -1,0 +1,20 @@
+__pycache__
+
+build
+dist
+GML
+OBF
+
+*.gml
+*.exe
+*.venv
+*.ini
+*.exe
+*.spec
+*.xlsx
+
+Kompilator GML.iss
+Parsed_GML.gml
+GML.xlsx
+GML.spec
+log.log
